@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://H:/zyw/bos_management/bos_management.iml" filepath="H:/zyw/bos_management/bos_management.iml" />
+      <module fileurl="file://H:/zyw/common_parent/common_parent.iml" filepath="H:/zyw/common_parent/common_parent.iml" />
+    </modules>
+  </component>
+</project>
